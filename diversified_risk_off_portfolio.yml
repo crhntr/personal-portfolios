@@ -1,0 +1,12 @@
+# copied from 63de4c8dc9aa1c74f23cef8e
+type: Portfolio
+spec:
+  name: Diversified Risk Off Portfolio
+  benchmark: TAIL
+  assets:
+    - 6123fa9904686ce9b73ebfbb
+    - BTAL
+    - PFIX
+  policy:
+    rebalancing_interval: Quarterly
+    weights: [50, 30, 20]
