@@ -4,7 +4,7 @@ spec:
   name: Diversified Risk Off Portfolio
   benchmark: TAIL
   assets:
-    - {type: Portfolio, id: "6123fa9904686ce9b73ebfbb}
+    - {type: Portfolio, id: "6123fa9904686ce9b73ebfbb"}
     - {type: Security, id: "BTAL"}
     - {type: Security, id: "PFIX"}
   policy:
